@@ -1,9 +1,35 @@
-{"questions" : 
-[
-{"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},  
-
-{"category":"science", "question":"Chepto ne mur", "choices":["Biasiat","Pirirwet","Ngungunyat","Mangen"],"correctAnswer":1},
-
-{"category":"science", "question":"Matindo konyun tirisyet", "choices":["Mayaiyat","Chiket","Choko","Mangen"],"correctAnswer":0}
-
-  ]}
+{"questions" : [
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1},
+  {"category":"general","question": "Aini ak kwaini", "choices": ["karit","Kipchapet","Kiplekuet","Koita"], "correctAnswer":1}
+]}
